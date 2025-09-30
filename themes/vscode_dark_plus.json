@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "VScode Dark Plus",
+  "name": "VScode Dark Plus Plus",
   "author": "d1y",
   "themes": [
     {
-      "name": "VScode Dark Plus",
+      "name": "VScode Dark Plus Plus",
       "appearance": "dark",
       "style": {
         "border": null,
@@ -15,7 +15,7 @@
         "border.disabled": null,
         "elevated_surface.background": null,
         "surface.background": null,
-        "background": "#1e1e1e",
+        "background": "#1e1e21",
         "element.background": null,
         "element.hover": null,
         "element.active": null,
@@ -39,7 +39,7 @@
         "icon.accent": null,
         "status_bar.background": "#303030",
         "title_bar.background": null,
-        "toolbar.background": "#1e1e1e",
+        "toolbar.background": "#1e1e21",
         "tab_bar.background": null,
         "tab.inactive_background": null,
         "tab.active_background": null,
@@ -50,11 +50,11 @@
         "scrollbar_thumb.background": null,
         "scrollbar.thumb.hover_background": null,
         "scrollbar.thumb.border": null,
-        "scrollbar.track.background": "#1e1e1e",
+        "scrollbar.track.background": "#1e1e21",
         "scrollbar.track.border": null,
         "editor.foreground": "#d4d4d4",
-        "editor.background": "#1e1e1e",
-        "editor.gutter.background": "#1e1e1e",
+        "editor.background": "#1e1e21",
+        "editor.gutter.background": "#1e1e21",
         "editor.subheader.background": null,
         "editor.active_line.background": null,
         "editor.highlighted_line.background": null,
@@ -65,7 +65,7 @@
         "editor.active_wrap_guide": null,
         "editor.document_highlight.read_background": null,
         "editor.document_highlight.write_background": null,
-        "terminal.background": "#1e1e1e",
+        "terminal.background": "#1e1e21",
         "terminal.foreground": null,
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
@@ -105,7 +105,7 @@
         "deleted.border": null,
         "error": "#d16969",
         "error.background": null,
-        "error.border": "#1e1e1e",
+        "error.border": "#1e1e21",
         "hidden": null,
         "hidden.background": null,
         "hidden.border": null,
@@ -117,7 +117,7 @@
         "ignored.border": null,
         "info": "#9cdcfe",
         "info.background": null,
-        "info.border": "#1e1e1e",
+        "info.border": "#1e1e21",
         "modified": "#d7ba7d",
         "modified.background": null,
         "modified.border": null,
@@ -135,7 +135,7 @@
         "unreachable.border": null,
         "warning": "#d7ba7d",
         "warning.background": null,
-        "warning.border": "#1e1e1e",
+        "warning.border": "#1e1e21",
         "players": [],
         "syntax": {
           "attribute": {
@@ -171,7 +171,7 @@
           "function": {
             "color": "#dcdcaa",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 900
           },
           "keyword": {
             "color": "#569cd6",
@@ -269,7 +269,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#9cdcfe",
+            "color": "#4FC1FF",
             "font_style": null,
             "font_weight": null
           }
