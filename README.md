@@ -1,5 +1,3 @@
-# VScode Dark Plus Theme
+# VScode Dark Plus Plus Theme
 
-https://github.com/tcd/dark-plus-syntax
-
-![image.png](https://s2.loli.net/2024/02/12/tk2u5fRmJSFPB1H.png)
+forked from: https://github.com/d1y/vscode_dark_plus.zed
